@@ -12,6 +12,9 @@ Table of Contents
 •	Acknowledgments
 
 
+link to our video below
+https://youtu.be/v0uwl4S4JBQ?si=C4N7aK7jWSw-OKUL
+
 
 Overview
 This project is an interactive application designed to generate and evaluate interview questions across various fields such as Data Science, Finance, Nursing, and more. Users can specify the field, number of questions, and preferred language for the interview. The questions are generated using a language model, and the user’s answers are evaluated, providing feedback on their responses.
@@ -55,4 +58,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 351265252
 Acknowledgments
 Special thanks to the contributors and the open-source community for their support in building this project.
+
+
 
